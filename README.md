@@ -1,2 +1,0 @@
-# testingfrontend
-learning frontend development
